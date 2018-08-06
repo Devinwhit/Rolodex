@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  Rolodex.cpp
+  main.cpp
+  Card.cpp
+  Generating Code...
+c:\users\devin\documents\github\rolodex\rolodex\rolodex.cpp(33): warning C4715: 'sort': not all control paths return a value
+  Rolodex.vcxproj -> C:\Users\devin\Documents\GitHub\Rolodex\x64\Debug\Rolodex.exe
+  Rolodex.vcxproj -> C:\Users\devin\Documents\GitHub\Rolodex\x64\Debug\Rolodex.pdb (Full PDB)
