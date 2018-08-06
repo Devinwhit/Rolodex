@@ -1,0 +1,190 @@
+Please enter an action (list, view, flip, search, add, remove, or done)
+list
+Name: Coors, Adolf
+Occupation: Beer Manufacturer
+Address: Boston MA
+Phone Number: 555-2337
+Name: Hansen, Tony
+Occupation: Writer
+Address: 12 E. St. NY, NY 33333
+Phone Number: 555-9999
+Name: Heard, Alonza
+Occupation: Mechanic
+Address: 123 Anyplace Ave Malden, MA
+Phone Number: 555-5678
+Name: Lupine, Alan
+Occupation: Vet
+Address: 1 Bigelow Ave. Lawrence, MA
+Phone Number: 555-7654
+Name: Milton, Fred
+Occupation: Sales
+Address: 12 Freedom Way Nashua, NH
+Phone Number: 555-9981
+Name: Papert, Seymour
+Occupation: Lego Professor
+Address: MIT
+Phone Number: 555-1111
+Name: Proverb, Jewel
+Occupation: Landscaper
+Address: 34 Washington St. Waltham, MA
+Phone Number: 555-3333
+Name: Revere, Paul
+Occupation: Radical Revolutionary
+Address: 45 Commonwealth Ave. Boston, MA
+Phone Number: 555-1776
+Name: Reyes, Jen
+Occupation: Graphic artist
+Address: 325 Oak Rd Wilmington, MA
+Phone Number: 555-4950
+Name: Smyth, Jon
+Occupation: Computer Hardware
+Address: CMU Computer Services Pittsburgh, PA
+Phone Number: 555-1324
+Please enter an action (list, view, flip, search, add, remove, or done)
+search
+Please enter a last name to search: Heard
+Card found! Card is now set to the current card
+Please enter an action (list, view, flip, search, add, remove, or done)
+view
+Name: Heard, Alonza
+Occupation: Mechanic
+Address: 123 Anyplace Ave Malden, MA
+Phone Number: 555-5678
+Please enter an action (list, view, flip, search, add, remove, or done)
+flip
+Card has been flipped
+Name: Lupine, Alan
+Occupation: Vet
+Address: 1 Bigelow Ave. Lawrence, MA
+Phone Number: 555-7654
+Please enter an action (list, view, flip, search, add, remove, or done)
+search
+Please enter a last name to search: Smyth
+Card found! Card is now set to the current card
+Please enter an action (list, view, flip, search, add, remove, or done)
+view
+Name: Smyth, Jon
+Occupation: Computer Hardware
+Address: CMU Computer Services Pittsburgh, PA
+Phone Number: 555-1324
+Please enter an action (list, view, flip, search, add, remove, or done)
+remove
+Card has been deleted
+Please enter an action (list, view, flip, search, add, remove, or done)
+view
+Name: Coors, Adolf
+Occupation: Beer Manufacturer
+Address: Boston MA
+Phone Number: 555-2337
+Please enter an action (list, view, flip, search, add, remove, or done)
+add
+Please enter the following: first name, last name, occupation, address, and phone number:
+Matthew Williams Teacher 69 Main St Acton MA 555-9330
+Please enter an action (list, view, flip, search, add, remove, or done)
+view
+Name: Williams, Matthew
+Occupation: Teacher
+Address: 69 Main St, Acton MA
+Phone Number: 555-9330
+Please enter an action (list, view, flip, search, add, remove, or done)
+flip
+Card has been flipped
+Name: Coors, Adolf
+Occupation: Beer Manufacturer
+Address: Boston MA
+Phone Number: 555-2337
+Please enter an action (list, view, flip, search, add, remove, or done)
+remove
+Card has been deleted
+Please enter an action (list, view, flip, search, add, remove, or done)
+view
+Name: Hansen, Tony
+Occupation: Writer
+Address: 12 E. St. NY, NY 33333
+Phone Number: 555-9999
+Please enter an action (list, view, flip, search, add, remove, or done)
+add
+Please enter the following: first name, last name, occupation, address, and phone number:
+Jim Butler Contractor 33 Cedar Lane Concord MA 555-8535
+Please enter an action (list, view, flip, search, add, remove, or done)
+view
+Name: Butler, Jim
+Occupation: Contractor
+Address: 33 Cedar Lane, Concord MA
+Phone Number: 555-8535
+Please enter an action (list, view, flip, search, add, remove, or done)
+search
+Please enter a last name to search: Proverb
+Card found! Card is now set to the current card
+Please enter an action (list, view, flip, search, add, remove, or done)
+view
+Name: Proverb, Jewel
+Occupation: Landscaper
+Address: 34 Washington St. Waltham, MA
+Phone Number: 555-3333
+Please enter an action (list, view, flip, search, add, remove, or done)
+remove
+Card has been deleted
+Please enter an action (list, view, flip, search, add, remove, or done)
+view
+Name: Revere, Paul
+Occupation: Radical Revolutionary
+Address: 45 Commonwealth Ave. Boston, MA
+Phone Number: 555-1776
+Please enter an action (list, view, flip, search, add, remove, or done)
+add
+Please enter the following: first name, last name, occupation, address, and phone number:
+Jim Butler Consultant 22 Minuteman St Lexington MA 555-4422
+Please enter an action (list, view, flip, search, add, remove, or done)
+add
+Please enter the following: first name, last name, occupation, address, and phone number:
+Dan Butler Chauffer 68 Willow St Westford MA 555-8493
+Please enter an action (list, view, flip, search, add, remove, or done)
+list
+Name: Butler, Dan
+Occupation: Chauffer
+Address: 68 Willow St, Westford MA
+Phone Number: 555-8493
+Name: Butler, Jim
+Occupation: Consultant
+Address: 22 Minuteman St, Lexington MA
+Phone Number: 555-4422
+Name: Butler, Jim
+Occupation: Contractor
+Address: 33 Cedar Lane, Concord MA
+Phone Number: 555-8535
+Name: Hansen, Tony
+Occupation: Writer
+Address: 12 E. St. NY, NY 33333
+Phone Number: 555-9999
+Name: Heard, Alonza
+Occupation: Mechanic
+Address: 123 Anyplace Ave Malden, MA
+Phone Number: 555-5678
+Name: Lupine, Alan
+Occupation: Vet
+Address: 1 Bigelow Ave. Lawrence, MA
+Phone Number: 555-7654
+Name: Milton, Fred
+Occupation: Sales
+Address: 12 Freedom Way Nashua, NH
+Phone Number: 555-9981
+Name: Papert, Seymour
+Occupation: Lego Professor
+Address: MIT
+Phone Number: 555-1111
+Name: Revere, Paul
+Occupation: Radical Revolutionary
+Address: 45 Commonwealth Ave. Boston, MA
+Phone Number: 555-1776
+Name: Reyes, Jen
+Occupation: Graphic artist
+Address: 325 Oak Rd Wilmington, MA
+Phone Number: 555-4950
+Name: Williams, Matthew
+Occupation: Teacher
+Address: 69 Main St, Acton MA
+Phone Number: 555-9330
+Please enter an action (list, view, flip, search, add, remove, or done)
+done
+Press any key to continue . . .
